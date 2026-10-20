@@ -11,4 +11,3 @@ int main() {
     printf("C to F for %f is %.2f\n",c,c2f(c));
     return 0;
 }
-
