@@ -2,7 +2,7 @@
 
 int main() {
     int i=100;
-    printf("the address of i is %d\n",&i);
+    printf("the address of i is %p\n",&i);
 
     return 0;
 }
