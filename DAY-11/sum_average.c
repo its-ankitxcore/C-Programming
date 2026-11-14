@@ -5,7 +5,7 @@ void sum (int a , int b ){
 }    
 
 void average (int a , int b ){                 //void kuch bhi return nhi krta
-    printf("the average is %f\n",(a+b)/2.0);
+    printf("the average is %.2f\n",(a+b)/2.0);
 }    
 
 
